@@ -1,4 +1,4 @@
-<span style="font-size: larger;">**Data Project: U.S. Elections County Level Data**</span>
+**Data Project: U.S. Elections County Level Data**
 
 **Overview:**
 This repository contains a data project focused on U.S. elections, specifically gathering and adjusting data from the Senate, Governor, and Presidential elections at the county level. The source of the original data is [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DGUMFI). The project aims to provide a curated dataset that includes only county-level election data after the year 1960.
