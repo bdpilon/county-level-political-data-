@@ -1,0 +1,17 @@
+---
+title: "electiondata2csv"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(data.table)
+fwrite(pres_elections_release, file = "D:/Dataprojects/data/1868-2020pres", quote = FALSE)
+
+```
+
+
+```{r}
+fwrite(gov_elections_release, file = "D:/Dataprojects/data/1868-2020gov", quote = FALSE)
+fwrite(senate_elections_release, file = "D:/Dataprojects/data/1868-2020sen", quote = FALSE)
+```
+
